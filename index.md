@@ -33,9 +33,9 @@ Logic gates: symbol and truth table - AND, OR, NOT, EX-OR, EX-NOR, Universal
 gates: NOR, NAND, Binary addition, Binary subtraction, 1’s complement, 2’s 
 complement, Applications of logic gates: Half adder, full adder. 
 #### Unit-5 Semiconductor Diodes: 
-Semiconductors: Intrinsic and Extrinsic, PN junction diode: working and V-I 
+[Semiconductors: Intrinsic and Extrinsic, PN junction diode: working and V-I 
 characteristics, Diode applications, Special Diodes: Light Emiting Diode as a 
-circuit element, Photodiode, Zener diode as voltage regulator.  
+circuit element, Photodiode, Zener diode as voltage regulator.](https://cg2024-gndec.github.io/notesbeee) 
 #### Unit-6 Transistors: 
 Transistors: Introduction, construction, working and characteristics, npn and 
 pnp transistors, Basic configurations: common emitter, common base, common 
