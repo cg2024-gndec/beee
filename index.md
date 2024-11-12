@@ -6,26 +6,26 @@
 
 #### Unit-1 DC Circuits:  
 
-Circuit elements and connected terminology, Kirchhoff’s Laws- Statement and 
+[Circuit elements and connected terminology, Kirchhoff’s Laws- Statement and 
 Illustrations, Method of solving circuits by Kirchhoff’s law, Star-Delta 
 Conversion, Ohm’s Law- Statement, Illustration and Limitation, Units- Work, 
-Power and Energy (Electrical, Thermal and Mechanical).  
+Power and Energy (Electrical, Thermal and Mechanical).](https://cg2024-gndec.github.io/mst1beee/#dc-circuits)  
 
 #### Unit-2 AC Fundamentals: 
-Principle of AC Voltage waveforms and basic definitions, Peak, Root Mean 
+[Principle of AC Voltage waveforms and basic definitions, Peak, Root Mean 
 Square and Average value of alternating current, Phasor representation of 
 alternating quanties. Ohm’s Law in AC circuits, Resistive, Inductive & 
 Capacitive circuits, and their series and parallel combinations. Concept of 
 resonance in series and parallel circuits, Analysis of balanced Three-phase 
-system with star-delta connections.  
+system with star-delta connections.](https://cg2024-gndec.github.io/mst1beee/#ac-circuits)  
 #### Unit-3 Magnetic Circuits and Electrical Machines: 
-Comparison between magnetic and electric circuits, Magnetic effects of electric 
+[Comparison between magnetic and electric circuits, Magnetic effects of electric 
 current, Current carrying conductor in magnetic field, Law of Electromagnetic 
 Induction, Self-Inductance, Mutual Inductance, Coupling Coefficient between 
 two magnetically coupled circuits. Construction, Working principle, 
 Classification and Applications of: Single-phase Transformer, D.C. machines 
 (motor and generator), Three-phase Induction motor, and Three-phase 
-Synchronous machines (motor and generator) 
+Synchronous machines (motor and generator)](https://cg2024-gndec.github.io/mst1beee/#magnetic-circuits) 
 ### Part-B 
 #### Unit-4 Digital Electronics: 
 Number Systems: Binary, Decimal, Octal, Hexadecimal and their conversions, 
